@@ -1,0 +1,14 @@
+.containerbtn{
+    display: flex;
+
+}
+.btnfeedback{
+    background-color: pink;
+    margin-right: 20px;
+    border-radius: 20%;
+    padding: 20px;
+    border: none;
+}
+.btnfeedback:hover{
+    background-color: rgb(196, 147, 155);
+}
